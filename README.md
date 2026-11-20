@@ -6,7 +6,7 @@ https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/
 
 NOTE: these are NOT real-time live exchange rates.
 
-https://www.bankofcanada.ca/valet/observations/group/FX_RATES_DAILY/json?start_date=2025-01-01&end_date=2027-01-01`
+https://www.bankofcanada.ca/valet/observations/group/FX_RATES_DAILY/json?start_date=2025-01-01&end_date=2027-01-01
 
     
 
